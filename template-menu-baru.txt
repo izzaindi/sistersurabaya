@@ -1,0 +1,17 @@
+<div class="col s12 m6">
+            <a href=" (Tempat untuk link) " target="_blank">
+              <div class="card horizontal">
+                <div class="card-image" style="background: #00acc1">
+                  <img src="img/gambar.jpg">
+                </div>
+                <div class="card-stacked">
+                  <div class="card-action" style="color: #ffab40; -webkit-transition: color .3s ease; transition: color .3s ease; text-transform: uppercase;">
+                    <p>(Tempat untuk judul)</p>
+                  </div>
+                  <div class="card-content">
+                    <p>(Tempat untuk deskripsi)</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
